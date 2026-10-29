@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Gemini_Generated_Image_4mm73t4mm73t4mm7" src="https://github.com/user-attachments/assets/714431f0-6ee8-4a41-8ea9-3ca72fbcda3c" /># Fusion-Fibra-Optica
+
 Manual técnico-pedagógico sobre la preparación y fusión de fibra óptica
 # 🌐 Manual Práctico: Introducción a la Fusión de Fibra Óptica
 
