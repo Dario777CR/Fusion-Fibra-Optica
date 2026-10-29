@@ -36,8 +36,12 @@ Pon la fibra en la máquina cortadora. El objetivo es lograr un corte totalmente
 Coloca las dos puntas limpias y cortadas en la máquina fusionadora. La máquina las alineará solita y lanzará un arco eléctrico (un mini rayo) para derretir y unir los vidrios. No olvides ponerle el tubito protector de plástico al final para que no se rompa.
 
 ![Fusión Exitosa](assets/img/fusion_ok.jpg)
-*(Ejemplo de una fibra bien protegida y lista).*
-
+![Paso 1: Seguridad primero](assets/img/paso_1_seguridad.png)
+![Paso 2: Pelado o Stripping](assets/img/paso_2_pelado.png)
+![Paso 3: Limpieza de Precisión](assets/img/paso_3_limpieza.png)
+![Paso 4: Corte de Precisión o Cleaving](assets/img/paso_4_corte.png)
+![Paso 5: Proceso de Fusión](assets/img/paso_5_fusion.png)
+![Paso 6: Análisis de Resultados](assets/img/paso_6_resultado.png)
 
 
 <img width="2752" height="1536" alt="Gemini_Generated_Image_4mm73t4mm73t4mm7" src="https://github.com/user-attachments/assets/24ff4925-f0f5-4a1a-9e32-a5e7f3f9c687" />
