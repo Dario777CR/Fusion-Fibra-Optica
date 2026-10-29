@@ -35,7 +35,7 @@ Pon la fibra en la máquina cortadora. El objetivo es lograr un corte totalmente
 ### 5. Proceso de Fusión (La Magia) 🔥
 Coloca las dos puntas limpias y cortadas en la máquina fusionadora. La máquina las alineará solita y lanzará un arco eléctrico (un mini rayo) para derretir y unir los vidrios. No olvides ponerle el tubito protector de plástico al final para que no se rompa.
 
-![Fusión Exitosa](assets/img/fusion_ok.jpg)
+
 ![Paso 1: Seguridad primero](assets/img/paso_1_seguridad.png)
 ![Paso 2: Pelado o Stripping](assets/img/paso_2_pelado.png)
 ![Paso 3: Limpieza de Precisión](assets/img/paso_3_limpieza.png)
